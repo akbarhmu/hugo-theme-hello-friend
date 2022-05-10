@@ -152,6 +152,9 @@ paginate = 5
   #(default is Description or Summary metadata in the front matter)
   # rssFullText = true
 
+  # set a custom favicon (default is a favicon.png) 
+  # favicon = "favicon.ico" 
+
 [languages]
   [languages.en]
     title = "Hello Friend"
